@@ -1,2 +1,2 @@
 # Breaking-an-ISBN
-With the concept of an ISBN we are trying to show how you can break the 
+With the concept of breaking, we are trying to show how you can break the ISBN can be represented with meaning
