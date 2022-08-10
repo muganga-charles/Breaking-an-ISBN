@@ -1,2 +1,2 @@
 # Breaking-an-ISBN
-With the concepts of 
+With the concept of an ISBN we are trying to 
